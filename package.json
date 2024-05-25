@@ -1,5 +1,5 @@
 {
-  "name": "modern-wikipedia",
+  "name": "UniVerse-Encyclopedia",
   "version": "1.0.0",
   "description": "Modern, responsive Wikipedia UI concept using Vue.js.",
   "scripts": {
@@ -8,21 +8,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maddyalj/modern-wikipedia.git"
+    "url": "git+https://github.com/skylinemusiccds/modern-wikipedia.git"
   },
-  "author": "Maddy Alj",
+  "author": "Satyam Singh",
   "license": "MIT",
   "dependencies": {
-    "@fortawesome/fontawesome": "^1.1.9",
-    "@fortawesome/fontawesome-free-regular": "^5.15.4",
-    "@fortawesome/fontawesome-free-solid": "^5.15.4",
-    "@fortawesome/vue-fontawesome": "^2.0.0",
-    "axios": "^0.24.0",
-    "node-sass": "^6.0.0",
+    "@fortawesome/fontawesome": "^1.2.0-6",
+    "@fortawesome/fontawesome-free-regular": "^5.1.0-3",
+    "@fortawesome/fontawesome-free-solid": "^5.1.0-3",
+    "@fortawesome/vue-fontawesome": "^3.0.7",
+    "axios": "^1.7.0",
+    "node-sass": "^9.0.0",
     "normalize.css": "^8.0.1",
-    "nuxt": "^2.15.8",
-    "pug": "^3.0.2",
-    "pug-loader": "^2.5.1",
-    "sass-loader": "^12.2.0"
+    "nuxt": "^3.11.1",
+    "pug": "^3.0.3",
+    "pug-loader": "^2.4.0",
+    "sass-loader": "^14.1.1"
   }
 }
