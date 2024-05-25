@@ -13,16 +13,16 @@
   "author": "Maddy Alj",
   "license": "MIT",
   "dependencies": {
-    "@fortawesome/fontawesome": "^1.1.8",
-    "@fortawesome/fontawesome-free-regular": "^5.0.13",
-    "@fortawesome/fontawesome-free-solid": "^5.0.13",
-    "@fortawesome/vue-fontawesome": "0.0.23",
-    "axios": "^0.18.0",
-    "node-sass": "^4.9.0",
-    "normalize.css": "^8.0.0",
-    "nuxt": "^1.4.0",
-    "pug": "^2.0.3",
-    "pug-loader": "^2.4.0",
-    "sass-loader": "^7.0.2"
+    "@fortawesome/fontawesome": "^1.1.9",
+    "@fortawesome/fontawesome-free-regular": "^5.15.4",
+    "@fortawesome/fontawesome-free-solid": "^5.15.4",
+    "@fortawesome/vue-fontawesome": "^2.0.0",
+    "axios": "^0.24.0",
+    "node-sass": "^6.0.0",
+    "normalize.css": "^8.0.1",
+    "nuxt": "^2.15.8",
+    "pug": "^3.0.2",
+    "pug-loader": "^2.5.1",
+    "sass-loader": "^12.2.0"
   }
 }
